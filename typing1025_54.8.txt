@@ -1,7 +1,7 @@
 Metrics:
-Speed: 54.8wpm (¡ô+18.5wpm)
-Accuracy: 100% (¡ô+2.46%)
-Score: 9,058 (¡ô+7,213)
+Speed: 54.8wpm (!o+18.5wpm)
+Accuracy: 100% (!o+2.46%)
+Score: 9,058 (!o+7,213)
 All keys:
 E
 N
