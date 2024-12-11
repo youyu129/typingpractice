@@ -1,0 +1,37 @@
+﻿Metrics:
+Speed: 62.2wpm (↑+20.6wpm)
+Accuracy: 100% (↑+1.93%)
+Score: 15,052 (↑+10,986)
+All keys:
+E
+N
+I
+A
+R
+L
+T
+O
+S
+U
+D
+Y
+C
+G
+H
+P
+M
+K
+B
+W
+F
+Z
+V
+X
+Q
+J
+Current key:
+All keys are unlocked.
+Accuracy:
+One lesson with 100% accuracy. 29 lessons with 97% accuracy. 852 lessons with 95% accuracy.
+Daily goal:
+137%/20 minutes
