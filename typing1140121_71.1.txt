@@ -1,0 +1,38 @@
+﻿Metrics:
+Speed: 71.1wpm (↑+24.9wpm)
+Accuracy: 100% (↑+1.69%)
+Score: 8,919 (↑+3,568)
+All keys:
+E
+N
+I
+A
+R
+L
+T
+O
+S
+U
+D
+Y
+C
+G
+H
+P
+M
+K
+B
+W
+F
+Z
+V
+X
+Q
+J
+Current key:
+R
+Last speed:63.7wpm (85%)Top speed:67.6wpm (90%)Learning rate:Uncertain 
+Accuracy:
+6 lessons with 100% accuracy. 40 lessons with 97% accuracy. 1,006 lessons with 95% accuracy.
+Daily goal:
+110%/10 minutes
